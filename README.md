@@ -26,7 +26,7 @@ From the root of this repo:
 yarn install
 ```
 
-This will install Nuxt 4, Vue 3.5, Vite 8.0.0-beta.16 (via `resolutions`), Sass, and related tooling.
+This will install Nuxt 4, Vue 3.5, Vite 8.0.0-beta.16 (via `resolutions`), and related tooling.
 
 ## How the app is structured
 

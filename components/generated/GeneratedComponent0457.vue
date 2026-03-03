@@ -4,7 +4,7 @@
   </div>
 </template>
 
-<style lang="scss">
+<style>
 /* Mapbox imports removed for standalone repro app. */
 .residency-map-container {
   border-radius: 5px;
